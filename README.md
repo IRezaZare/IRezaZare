@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=IRezaZare&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/IRezaZare?label=Followers&style=flat-square" alt="Followers" />
 </p>
-###I'm Reza  
+### I'm Reza  
 
 **Back-End Developer | ASP .NET Core Enthusiast**  
 
@@ -30,7 +30,7 @@
 
 ---
 
-#### GitHub Stats
+#### Stats
 ![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=IRezaZare&show_icons=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IRezaZare&layout=compact&theme=radical)  
@@ -39,7 +39,7 @@
 
 ---
 
-#### Contact Me
+#### Contact
 <p align="center">
   <a href="https://t.me/RezaZarre">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -51,5 +51,3 @@
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=about-dot-me&logoColor=white" />
   </a>
 </p>
-
-⭐ Feel free to check out my projects and share your feedback!  
