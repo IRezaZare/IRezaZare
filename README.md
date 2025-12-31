@@ -2,24 +2,21 @@
   <img src="https://komarev.com/ghpvc/?username=IRezaZare&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/IRezaZare?label=Followers&style=flat-square" alt="Followers" />
 </p>
-
-# 🌍 Welcome 
-
-### 👋 Hi there! I'm Reza  
+###I'm Reza  
 
 **Back-End Developer | ASP .NET Core Enthusiast**  
 
 ---
 
-#### 🧑‍💻 About Me
-- 🚀 Back-end developer specialized in **ASP .NET Core**  
-- 📚 Passionate about **Clean Architecture, Databases, and System Optimization**  
-- 🛠 Experienced with **Microservices** and **CI/CD Pipelines**  
-- 🌱 Continuously learning and improving my skills in software engineering  
+#### About
+- Back-end developer specialized in **ASP .NET Core**  
+- Passionate about **Clean Architecture, Databases, and System Optimization**  
+- Experienced with **Microservices** and **CI/CD Pipelines**  
+- Continuously learning and improving my skills in software engineering  
 
 ---
 
-#### 🛠 Skills
+#### Skills
 - **Languages:** C# • Python • SQL 
 - **Frameworks:** ASP .NET Core • Entity Framework Core  
 - **Databases:** SQL Server • SQLite  
@@ -28,12 +25,12 @@
 
 ---
 
-#### 📂 Projects
+#### Projects
 🔹 [HelpDesk](https://github.com/IRezaZare/HelpDesk) – A Ticketing system built with ASP .NET Core, JWT Authentication, and SQL Server  
 
 ---
 
-#### 📊 GitHub Stats
+#### GitHub Stats
 ![Reza's GitHub stats](https://github-readme-stats.vercel.app/api?username=IRezaZare&show_icons=true&theme=radical)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IRezaZare&layout=compact&theme=radical)  
@@ -42,12 +39,12 @@
 
 ---
 
-#### 📫 Contact Me
+#### Contact Me
 <p align="center">
   <a href="https://t.me/RezaZarre">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://instagram.com/ireza_zare">
+  <a href="https://instagram.com/rezaaaaa.zare">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://rezazare.ir">
