@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=IRezaZare&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/IRezaZare?label=Followers&style=flat-square" alt="Followers" />
 </p>
-#### I'm Reza  
+I'm Reza  
 
 **Back-End Developer | ASP .NET Core Enthusiast**  
 
